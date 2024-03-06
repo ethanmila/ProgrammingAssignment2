@@ -1,5 +1,5 @@
 
-## Input "matrix" is the matrix
+## Input "matrix" as the matrix
 ## The inverse that will be solved for is set as null
 ## Everything is structured similarly to the example
 ## except with "inverse" instead of "mean"
